@@ -26,8 +26,8 @@
 defined('MOODLE_INTERNAL') || die();
 
 // Plugin version and release information.
-$plugin->version = 2025052805;
-$plugin->release = "1.0.0 (20250528)";
+$plugin->version = 2025052806;
+$plugin->release = "1.0.1 (20250528)";
 $plugin->requires = 2021051700;
 $plugin->component = "local_user_enroll_report";
 $plugin->maturity = MATURITY_STABLE;
