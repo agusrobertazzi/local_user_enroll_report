@@ -6,7 +6,6 @@ require_once(__DIR__.'/classes/report.php');
 
 // Check permissions
 require_login();
-admin_externalpage_setup('local_user_enroll_report_main');
 require_capability('local/user_enroll_report:view', context_system::instance());
 
 // Get parameters
