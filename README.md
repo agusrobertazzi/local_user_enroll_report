@@ -1,6 +1,6 @@
 ![Moodle Plugin](https://img.shields.io/badge/Moodle-Plugin-brightgreen)
 ![License](https://img.shields.io/badge/License-GPLv3-blue)
-![Moodle Version](https://img.shields.io/badge/Moodle-3.10%2B-orange)
+![Moodle Version](https://img.shields.io/badge/Moodle-3.11-orange)
 
 # Plugin de Informe de Matriculaciones activas para Moodle
 ## local_user_enroll_report
